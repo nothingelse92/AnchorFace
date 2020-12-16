@@ -11,5 +11,6 @@ this task based on a split-and-aggregate strategy. To split the search space, we
 # Method
 ![AnchorFace Method Pipiline](method.png)
 # Results
+![AnchorFace Result](result.png)
 # Usage
 # Citation
