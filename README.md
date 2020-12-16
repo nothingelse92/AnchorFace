@@ -2,6 +2,8 @@
 
 Official implementation of our paper *AnchorFace: An Anchor-based Facial Landmark Detector Across Large Poses*, which is accepted by **AAAI 2021**.
 
+Code will be released soon~
+
 # Abstract
 Facial landmark localization aims to detect the predefined points of human faces, and the topic has been rapidly improved with
 the recent development of neural network based methods. However, it remains a challenging task when dealing with faces in unconstrained scenarios, especially with large pose variations. In this paper, we target the problem of facial landmark localization across large poses and address
