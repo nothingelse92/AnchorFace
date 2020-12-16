@@ -17,7 +17,7 @@ this task based on a split-and-aggregate strategy. To split the search space, we
 ```
 @article{AnchorFace,
   title={AnchorFace: An Anchor-based Facial Landmark Detector Across Large Poses},
-  author={Xu, Zixuan<sup>*</sup> and Li, Banghuai<sup>*</sup> and Geng, Miao and Yuan, Ye and Yu, Gang},
+  author={Xu, Zixuan and Li, Banghuai and Geng, Miao and Yuan, Ye and Yu, Gang},
   journal={arXiv preprint arXiv:2007.03221},
   year={2020}
 }
